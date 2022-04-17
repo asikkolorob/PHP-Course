@@ -11,4 +11,4 @@ echo "\n"; //? New Line always the way
 echo "Hello $name"; //? String concat 2
 
 echo "\n";
-echo "Hello {$name} , {$quetion}"; // This Best Prectice
+echo "Hello {$name} , {$quetion}"; //? This is Best Prectice 
